@@ -10,9 +10,9 @@ This is where I showcase the different features and systems I use in my games.
 🔹 Database: PostgreSQL, MongoDB  
 -->
 ## 🌎 Find me online  
-🔗 [Itch.io](https://bob-mervell.itch.io/)  
-🐦 [Youtube](www.youtube.com/@bobmervell7044)  
-📸 [LinkedIn](www.linkedin.com/in/lucas-rouze)  
+🎮 [Itch.io](https://bob-mervell.itch.io/)  
+🎥 [Youtube](www.youtube.com/@bobmervell7044)  
+🔗 [LinkedIn](www.linkedin.com/in/lucas-rouze)  
 
 ---
 
