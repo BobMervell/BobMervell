@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm @LucasROUZE
+# Hey there! 👋 I'm Bob Mervell
 
 I'm a **Game developer** 🚀 who enjoys building awesome projects!
 This is where I showcase the different features and systems I use in my games.
